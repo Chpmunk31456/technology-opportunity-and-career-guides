@@ -1,6 +1,3 @@
-Use this rebuilt version for the main `README.md`:
-
-```markdown
 # Technology Opportunity and Career Guides
 
 Free, practical resources helping people move from learning to opportunity.
@@ -365,10 +362,3 @@ This project reflects a lifelong commitment to technology, education, rehabilita
 ## License
 
 This project is intended to be shared freely for educational and noncommercial use under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license**.
-```
-
-Use this commit message:
-
-```text
-Rebuild main README for project launch
-```
