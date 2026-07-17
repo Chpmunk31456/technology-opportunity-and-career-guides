@@ -1,41 +1,15 @@
-# Technology Career Guides
+# Data, Cloud, and Software Platforms
 
-This section provides free, practical roadmaps for future technology careers.
+Separate beginner-friendly roadmaps in this category:
 
-Each guide will explain:
-
-- What the career involves
-- Common responsibilities
-- Entry-level and advanced job titles
-- Technical and nontechnical skills
-- Degree and non-degree pathways
-- Free learning resources
-- Recommended certifications
-- Portfolio projects
-- GitHub evidence
-- Internship and apprenticeship pathways
-- Resume and interview preparation
-- Accessibility considerations
-- Ethical and legal responsibilities
-- Long-term career development
-
-## Planned Foundation Guides
-
-- Top 50 Technology Careers of the Future
-- How to Choose a Technology Career
-- Artificial Intelligence Careers
-- Cybersecurity Careers
-- Cloud and Platform Careers
-- Data Careers
-- Software Development Careers
-- GRC, Risk, Privacy, and AI Governance Careers
-- Robotics and Emerging Technology Careers
-- Accessibility and Assistive Technology Careers
-
-## Mission
-
-Many people have the ability to make a meaningful difference in the world, but they lack money, guidance, accommodations, connections, or access to reliable information.
-
-Our goal is to help at least one person use technology to change the world for the better—and encourage that person to help someone else.
-
-**Help one person. Share one verified opportunity. Teach one useful skill. Leave the path clearer than you found it.**
+- [Data Engineer](data-engineer.md)
+- [Data Scientist](data-scientist.md)
+- [Analytics Engineer](analytics-engineer.md)
+- [Data Governance Specialist](data-governance-specialist.md)
+- [Cloud Architect](cloud-architect.md)
+- [Platform Engineer](platform-engineer.md)
+- [Site Reliability Engineer](site-reliability-engineer.md)
+- [MLOps Engineer](mlops-engineer.md)
+- [FinOps Specialist](finops-specialist.md)
+- [API and Integration Engineer](api-integration-engineer.md)
+- [Full-Stack Software Engineer](full-stack-software-engineer.md)
