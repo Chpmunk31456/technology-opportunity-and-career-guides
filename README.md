@@ -1,239 +1,168 @@
-# Technology Opportunity and Career Guides
+# Cybersecurity Career and Practical Guides
 
-Free, practical resources helping people move from learning to opportunity.
+Free, bilingual, practical resources for learning cybersecurity, building career skills, and implementing real-world security programs.
 
-This project brings together verified career pathways, technology education, individual career roadmaps, accessibility guidance, portfolio support, and human-centered mentoring principles.
+**Author:** Alberto (Al) Leiva  
+**Languages:** English and Spanish  
+**License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+---
 
 ## Mission
 
-Many people have the ability to make a meaningful difference in the world, but they lack money, guidance, accommodations, connections, or access to reliable information.
+Many capable people are excluded from technology careers because they lack money, mentoring, accommodations, professional connections, or clear guidance.
 
-This project exists to help at least one person use technology to change the world for the better—and to encourage that person to help someone else.
+This project exists to make cybersecurity education and career development easier to access. It provides free manuals, career roadmaps, implementation guides, portfolio support, interview preparation, accessibility guidance, and practical learning resources.
 
-> **Help one person. Share one verified opportunity. Teach one useful skill. Leave the path clearer than you found it.**
+The goal is simple:
+
+> Help one person. Share one verified opportunity. Teach one useful skill. Leave the path clearer than you found it.
 
 ---
 
 ## Start Here
 
-### 1. Find Opportunities
+### 1. Explore Cybersecurity Careers
 
-Explore employment, internships, apprenticeships, fellowships, mentorships, traineeships, graduate programs, and return-to-work pathways.
+Begin with the career resources if you are choosing a path, changing careers, preparing for an interview, or building a portfolio.
 
-- [Global Technology Opportunities Foundation Guide](GLOBAL_TECHNOLOGY_OPPORTUNITIES_FOUNDATION_GUIDE.md)
-- [Project Editorial Quality Standard](PROJECT_EDITORIAL_QUALITY_STANDARD.md)
-- [Download the Global Opportunities Word edition](Global_Technology_Opportunities_Foundation_Guide_v1.1_Editorially_Reviewed.docx)
-- [Download the Global Opportunities PDF edition](Global_Technology_Opportunities_Foundation_Guide_v1.1_Editorially_Reviewed.pdf)
+- [Career Guides Directory](./03-career-guides)
+- [How to Become a GRC Analyst](./How_to_Become_a_GRC_Analyst_Bilingual_English_Spanish_v1.0)
+- [SOC Analyst Guide](./SOC_Analyst_Bilingual_v1.0)
+- [How to Build a Cybersecurity Portfolio on GitHub](./How_to_Build_a_Cybersecurity_Portfolio_on_GitHub_Bilingual_English_Spanish_v1.0/Cybersecurity_Portfolio_GitHub_Bilingual_v1.0)
+- [How to Prepare for a Cybersecurity Interview](./How_to_Prepare_for_a_Cybersecurity_Interview_Bilingual_English_Spanish_v1.0/Cybersecurity_Interview_Bilingual_v1.0)
 
-### 2. Choose a Technology Career
+### 2. Build Practical Cybersecurity Skills
 
-Start with the career-selection guide before choosing a specific roadmap.
+Use the implementation manuals to learn how security programs are designed, documented, operated, tested, and improved.
 
-- [Choose Your Technology Career](03-career-guides/choose-your-technology-career.md)
-- [Top 50 Technology Careers of the Future](03-career-guides/top-50-technology-careers.md)
-- [Technology Career Guides Directory](03-career-guides/README.md)
+- [Cybersecurity Risk Assessment](./How_to_Perform_a_Cybersecurity_Risk_Assessment_Bilingual_English_Spanish_v1.0/Cybersecurity_Risk_Assessment_Bilingual_v1.0)
+- [Third-Party Vendor Risk Assessment](./How_to_Perform_Third_Party_Vendor_Risk_Assessments_Bilingual_English_Spanish_v1.0/Third_Party_Vendor_Risk_Bilingual_v1.0)
+- [ISO/IEC 27001 Implementation](./How_to_Implement_ISO_IEC_27001_Bilingual_English_Spanish_v1.0)
+- [SOC 2 Audit Readiness](./How_to_Prepare_for_a_SOC_2_Audit_Bilingual_English_Spanish_v1.0/SOC2_Audit_Readiness_Bilingual_v1.0)
+- [Cybersecurity Incident Response Program](./How_to_Build_a_Cybersecurity_Incident_Response_Program_Bilingual_English_Spanish_v1.0/Incident_Response_Program_Bilingual_v1.0)
+- [Business Continuity and Disaster Recovery](./BCDR_Bilingual_v1.0/Business_Continuity_Disaster_Recovery_Bilingual_v1.0)
+- [Zero Trust Security Program](./How_to_Build_a_Zero_Trust_Security_Program_Bilingual_English_Spanish_v1.0/Zero_Trust_Program_Bilingual_v1.0)
 
-### 3. Review the Safety Standard
+### 3. Study Advanced and Specialized Security Areas
 
-Career guidance should support people—not shame, pressure, or harm them.
-
-- [Human Safety and Do No Harm Standard](03-career-guides/HUMAN_SAFETY_AND_DO_NO_HARM_STANDARD.md)
-
-### 4. Download the Career Guide
-
-- [Editable Word edition](03-career-guides/Top_50_Technology_Careers_Foundation_Guide_v1.0.docx)
-- [PDF edition](03-career-guides/Top_50_Technology_Careers_Foundation_Guide_v1.0_COMPATIBILITY.pdf)
+- [Identity and Access Management](./HOW_TO_BUILD_AN_IDENTITY_AND_ACCESS_MANAGEMENT)
+- [Privacy and Data Protection](./HOW_TO_BUILD_A_PRIVACY_AND_DATA_PROTECTION_PROGRAM)
+- [Security Operations Center Program](./HOW_TO_BUILD_A_SECURITY_OPERATIONS_CENTER)
+- [Cybersecurity Metrics and Executive Reporting](./HOW_TO_BUILD_CYBERSECURITY_METRICS_AND_EXECUTIVE_REPORTING)
+- [AI Agents, RAG, and MCP Security](./How_to_Protect_AI_Agents_RAG_and_MCP_Bilingual_English_Spanish_v1.0/AI_Agents_RAG_MCP_Bilingual_v1.0)
+- [Azure AI Security — English](./Practical_Azure_AI_Security_English_v1.0_Package)
+- [Azure AI Security — Spanish](./Seguridad_Practica_IA_Azure_Espanol_v1.0_Package_COMPLETE)
+- [OT, ICS, and SCADA Security](./How_to_Secure_OT_ICS_and_SCADA_Bilingual_English_Spanish_v1.0/OT_ICS_Security_Bilingual_v1.0)
 
 ---
 
-## What the Project Includes
+## What This Repository Includes
 
-### Global Opportunities
+### Career Development
 
-The opportunity section is designed to help people locate legitimate and recurring pathways such as:
-
-- Employment
-- Internships
-- Apprenticeships
-- Fellowships
-- Mentorship programs
-- Traineeships
-- Graduate programs
-- Research placements
-- Returnships
-- Career-change opportunities
-
-Each opportunity should be checked against an official employer, government, university, nonprofit, research institution, or program page.
-
-### Free Education and Tools
-
-The project prioritizes:
-
-- Completely free courses
-- Free-to-audit courses
-- Free training with optional paid certificates
-- Open-source tools
-- Free software tiers
-- Practical laboratories
-- Official documentation
-- Portfolio projects
-- GitHub guidance
+- Cybersecurity career roadmaps
+- GRC and SOC analyst guidance
 - Resume and interview preparation
-- Responsible AI use
-- Accessibility guidance
-- Scam and fraud prevention
-
-Resources should clearly identify whether they are free, partially free, paid, region-restricted, or subject to eligibility requirements.
-
-### Individual Career Roadmaps
-
-The career-guides section includes roadmaps covering:
-
-- Artificial intelligence
-- Cybersecurity
-- Cloud computing
-- Data
-- Software development
-- Governance, risk, compliance, and privacy
-- Robotics
-- Emerging technology
-- Accessibility
-- Assistive and human-centered technology
-
-Each roadmap may include:
-
-- What the role does
-- Typical responsibilities
-- Entry-level and advanced titles
-- Required technical skills
-- Important communication and human skills
-- Degree and non-degree pathways
-- Free learning resources
-- Free and open-source tools
-- Portfolio project ideas
-- GitHub evidence
-- Internship, apprenticeship, fellowship, and mentorship pathways
-- Certification options
-- Resume and interview guidance
+- Portfolio and GitHub guidance
+- Entry-level and advanced career pathways
+- Free and low-cost learning resources
+- Certification guidance
 - Accessibility considerations
 - Ethical and legal responsibilities
-- A practical 30-, 60-, and 90-day plan
+- Practical 30-, 60-, and 90-day plans
+
+### Security Program Implementation
+
+- Governance, risk, and compliance
+- Cybersecurity risk assessments
+- ISO/IEC 27001 implementation
+- SOC 2 audit preparation
+- Incident response
+- Business continuity and disaster recovery
+- Zero Trust
+- Identity and access management
+- Security operations
+- Privacy and data protection
+- Third-party risk management
+- Cloud and AI security
+- OT, ICS, and SCADA security
+- Metrics and executive reporting
+
+### Available Formats
+
+Most manuals are provided in:
+
+- Microsoft Word (`.docx`)
+- PDF (`.pdf`)
+- GitHub Markdown (`.md`)
+- English
+- Spanish
 
 ---
 
-## Career Guidance Approach
+## Who These Resources Are For
 
-Career decisions should not be based on one test, personality label, degree, or outside expectation.
+This repository is designed for:
 
-The project encourages people to consider:
+- Students
+- Career changers
+- Entry-level cybersecurity professionals
+- Experienced practitioners expanding into new areas
+- Mentors and educators
+- Small organizations
+- Nonprofits
+- Consultants
+- GRC professionals
+- Security analysts
+- Security architects
+- Technology leaders
+- People who need accessible and beginner-friendly learning materials
 
-- Interests
-- Existing skills
-- Skills they want to develop
-- Personality and preferred work style
-- Personal values
-- Accessibility and accommodation needs
-- Available time
-- Financial resources
-- Language
-- Geographic restrictions
-- Work authorization
-- Remote, hybrid, or onsite preferences
-- Family and caregiving responsibilities
-- Need for immediate income
-
-Personality and interest assessments may help with reflection, but they do not measure intelligence, ability, worth, or destiny.
+No one should be excluded because of age, disability, education, career gaps, language, financial limitations, or lack of professional connections.
 
 ---
 
-## Project Principles
+## Learning Approach
 
-### Lift as You Rise
+The manuals are written to be practical, understandable, and useful in real environments.
 
-Another person’s success does not reduce our own.
+Each guide may include:
 
-We encourage everyone who benefits from this project to help one other person by:
+- Plain-language explanations
+- Roles and responsibilities
+- Step-by-step implementation guidance
+- Checklists
+- Tables and examples
+- Evidence and audit-readiness guidance
+- Open-source and free tools
+- Portfolio project ideas
+- Governance and risk considerations
+- Accessibility considerations
+- Ethical and legal warnings
+- 30-, 60-, and 90-day plans
 
-- Sharing a verified opportunity
-- Explaining an application requirement
-- Reviewing a beginner’s project
-- Translating a resource
-- Improving accessibility
-- Reporting an expired link
-- Offering encouragement after rejection
-- Mentoring someone through a first project
+Technical ability does not create permission. Security testing and administrative actions must be performed only on systems you own or are explicitly authorized to use.
 
-### Human Safety Comes First
+---
 
-No job, degree, salary, certification, interview, or family expectation is more important than a person’s safety, dignity, and life.
+## Human Safety and Do No Harm
+
+No job, certification, degree, salary, interview, or deadline is more important than a person’s safety, dignity, and life.
 
 This project does not shame people for:
 
 - Unemployment
 - Disability
 - Age
-- Education
+- Education level
 - Career gaps
 - Financial hardship
 - Rejection
 - Changing direction
-- Needing more time or support
+- Needing additional time, support, or accommodations
 
-If career pressure is contributing to hopelessness or thoughts of self-harm, career planning should stop. Immediate support from a trusted person, qualified professional, local emergency service, or crisis service should take priority.
-
-### We Shall Not Do Harm
-
-We will:
-
-- Encourage without pressuring
-- Guide without judging
-- Inform without misleading
-- Protect privacy
-- Avoid false promises
-- Respect disability, culture, age, education, and circumstance
-- Recognize when career guidance should stop and immediate human support should begin
-
-### No Gatekeeping
-
-We do not support:
-
-- Ridicule
-- Deliberate discouragement
-- False promises
-- Exploitation
-- Plagiarism
-- Recruitment fraud
-- Hiding public opportunities behind payment
-- Discrimination
-- Shaming beginners
-- Treating another person’s success as a threat
-
----
-
-## Responsible Use of AI
-
-AI can help people:
-
-- Compare career paths
-- Understand job descriptions
-- Improve grammar
-- Organize learning plans
-- Practice interviews
-- Generate study questions
-- Review documentation
-- Brainstorm portfolio ideas
-
-AI should not be used to:
-
-- Fabricate work history
-- Invent certifications
-- Impersonate another applicant
-- Complete restricted assessments
-- Plagiarize projects
-- Submit confidential information
-- Make unverified legal, medical, financial, or immigration claims
-
-Users remain responsible for every statement they submit.
+The project encourages without pressuring, guides without judging, and informs without making false promises.
 
 ---
 
@@ -257,11 +186,38 @@ Documents should use:
 - Clear headings
 - Plain language
 - Meaningful link text
+- Readable formatting
 - Accessible tables
 - Alt text for informative images
-- Readable formatting
 - Multiple file formats when practical
 - Respectful and inclusive language
+
+---
+
+## Responsible Use of AI
+
+AI may help people:
+
+- Compare career paths
+- Understand job descriptions
+- Improve spelling and grammar
+- Organize learning plans
+- Practice interviews
+- Generate study questions
+- Review documentation
+- Brainstorm portfolio projects
+
+AI should not be used to:
+
+- Fabricate work history
+- Invent certifications
+- Impersonate another applicant
+- Complete restricted assessments
+- Plagiarize projects
+- Submit confidential information
+- Make unverified legal, medical, financial, or immigration claims
+
+Users remain responsible for every statement they submit and every action they take.
 
 ---
 
@@ -283,7 +239,9 @@ Every document should be reviewed for:
 - Consistent terminology
 - Clear disclaimers
 
-Whenever possible, information should be verified through official sources rather than third-party summaries.
+Whenever possible, technical and compliance information should be verified through official standards, government publications, recognized professional organizations, and primary documentation.
+
+See the [Project Editorial Quality Standard](./PROJECT_EDITORIAL_QUALITY_STANDARD.md).
 
 ---
 
@@ -291,8 +249,8 @@ Whenever possible, information should be verified through official sources rathe
 
 Contributions are welcome from:
 
-- Applicants
 - Students
+- Practitioners
 - Educators
 - Mentors
 - Employers
@@ -304,50 +262,50 @@ Contributions are welcome from:
 
 Helpful contributions include:
 
-- Sharing an official opportunity
-- Reporting an expired link
-- Correcting eligibility information
-- Adding accessibility details
-- Translating content
-- Reviewing grammar
+- Reporting broken or outdated links
+- Correcting technical or eligibility information
+- Improving accessibility
+- Reviewing grammar and terminology
 - Suggesting free learning resources
-- Sharing a practical portfolio project
-- Improving career guidance
-- Contributing a personal experience without revealing confidential information
+- Translating content
+- Sharing practical portfolio ideas
+- Recommending official tools or standards
+- Contributing nonconfidential professional experience
 
-When submitting an opportunity, include:
+Please do not submit confidential, proprietary, restricted, or personally identifiable information.
 
-- Program name
-- Official URL
-- Organization
-- Opportunity type
-- Country or region
-- Remote, hybrid, or onsite status
-- Eligibility requirements
-- Compensation or stipend
-- Application dates
-- Technology fields
-- Accessibility contact, when available
-- Date verified
+---
+
+## Repository Organization
+
+| Area | Purpose |
+|---|---|
+| `03-career-guides` | Career exploration and role-specific roadmaps |
+| Career manuals | GRC, SOC, interviews, portfolios, and professional development |
+| Governance and compliance manuals | Risk, ISO/IEC 27001, SOC 2, privacy, and third-party risk |
+| Security operations manuals | SOC, incident response, vulnerability management, and metrics |
+| Architecture and engineering manuals | Zero Trust, IAM, cloud, AI, OT, ICS, and SCADA |
+| Resilience manuals | Business continuity, disaster recovery, and recovery planning |
+
+Folder names may evolve as the collection grows, but the goal remains consistent: make practical cybersecurity education easier to find and use.
 
 ---
 
 ## Important Disclaimer
 
-This project is provided for education and career exploration.
+This repository is provided for education, professional development, and general cybersecurity guidance.
 
 It is not:
 
-- Psychological testing
-- Medical advice
 - Legal advice
+- Medical advice
 - Financial advice
 - Immigration advice
-- Rehabilitation evaluation
 - Licensed counseling
-- A guarantee of employment
+- A substitute for organization-specific risk assessment
+- A guarantee of certification, compliance, employment, or business results
 
-Readers should verify important information through official sources and seek qualified professional guidance when appropriate.
+Readers should verify important information through official sources and seek qualified professional guidance where appropriate.
 
 ---
 
@@ -355,10 +313,35 @@ Readers should verify important information through official sources and seek qu
 
 **Alberto (Al) Leiva**
 
-This project reflects a lifelong commitment to technology, education, rehabilitation engineering, mentoring, accessibility, cybersecurity, and helping people discover paths that may otherwise remain hidden.
+This project reflects a lifelong commitment to technology, education, counseling, rehabilitation engineering, accessibility, cybersecurity, mentoring, and helping people discover opportunities that might otherwise remain hidden.
+
+I was fortunate to have mentors who recognized my potential and helped me find paths I might never have discovered alone. This collection is one way of passing that help forward.
 
 ---
 
 ## License
 
-This project is intended to be shared freely for educational and noncommercial use under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license**.
+Unless a file states otherwise, this educational content is intended to be shared under the:
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**
+
+You may share and adapt the material for noncommercial purposes when you:
+
+- Give appropriate credit
+- Link to the license
+- Indicate whether changes were made
+- Distribute adaptations under the same license
+
+See the [LICENSE](./LICENSE) file for repository-specific details.
+
+---
+
+## Final Message
+
+You do not need to know everything before you begin.
+
+Start with one role.  
+Learn one skill.  
+Complete one project.  
+Help one person.  
+Keep going.
