@@ -1,94 +1,96 @@
-# Practical Azure AI Security
+# Seguridad práctica de IA en Azure
 
-A practical guide for securing artificial intelligence workloads, generative AI applications, data, identities, models, agents, and governance services in Microsoft Azure.
+## Practical Azure AI Security
 
-## English Files
+Guía práctica en español para proteger cargas de inteligencia artificial, aplicaciones de IA generativa, datos, identidades, modelos, agentes y servicios de gobierno en Microsoft Azure.
 
-Open the folder and confirm the exact filenames before creating the links.
+## Archivos en español
 
-Use this structure:
+Antes de guardar, abra la carpeta y confirme que los nombres coincidan exactamente.
 
-- [English Word Edition](./Practical_Azure_AI_Security_English_v1.0.docx)
-- [English PDF Edition](./Practical_Azure_AI_Security_English_v1.0.pdf)
-- [English Markdown Edition](./Practical_Azure_AI_Security_English_v1.0.md)
+Use esta estructura:
 
-## Spanish Edition
+- [Edición Word en español](./Seguridad_Practica_IA_Azure_Espanol_v1.0.docx)
+- [Edición PDF en español](./Seguridad_Practica_IA_Azure_Espanol_v1.0.pdf)
+- [Edición Markdown en español](./Seguridad_Practica_IA_Azure_Espanol_v1.0.md)
 
-The Spanish edition is available in the separate repository folder:
+## English Edition
 
-[Seguridad práctica de IA en Azure](../Seguridad_Practica_IA_Azure_Espanol_v1.0_Package_COMPLETE)
+La edición en inglés está disponible en:
 
-## Topics Covered
+[Practical Azure AI Security](../Practical_Azure_AI_Security_English_v1.0_Package)
 
-- Azure AI security fundamentals
-- Shared responsibility
+## Temas incluidos
+
+- Fundamentos de seguridad de IA en Azure
+- Modelo de responsabilidad compartida
 - Microsoft Entra ID
-- Role-based access control
-- Managed identities
-- Privileged access
-- Azure AI Foundry security
-- Azure OpenAI security
+- Control de acceso basado en roles
+- Identidades administradas
+- Acceso privilegiado
+- Seguridad de Azure AI Foundry
+- Seguridad de Azure OpenAI
 - Microsoft Purview
 - Microsoft Defender for Cloud
 - Azure Key Vault
-- Network isolation
-- Private endpoints
-- Data protection
-- Prompt injection
-- RAG security
-- AI-agent security
-- Model and deployment governance
-- Logging and monitoring
-- Responsible AI
-- Incident response
-- Compliance and audit evidence
-- 30-, 60-, and 90-day implementation plan
+- Aislamiento de red
+- Private Endpoints
+- Protección de datos
+- Inyección de instrucciones
+- Seguridad de RAG
+- Seguridad de agentes de IA
+- Gobierno de modelos y despliegues
+- Registros y monitoreo
+- IA responsable
+- Respuesta a incidentes
+- Cumplimiento y evidencia de auditoría
+- Plan de implementación de 30, 60 y 90 días
 
-## Intended Audience
+## Audiencia
 
-- Students
-- Career changers
-- AI security engineers
-- Azure security professionals
-- Cloud security engineers
-- Application security professionals
-- Security architects
-- GRC professionals
-- AI governance professionals
-- Technology managers
-- Consultants
-- Small organizations and nonprofits
+- Estudiantes
+- Personas que cambian de carrera
+- Ingenieros de seguridad de IA
+- Profesionales de seguridad de Azure
+- Ingenieros de seguridad en la nube
+- Profesionales de seguridad de aplicaciones
+- Arquitectos de seguridad
+- Profesionales de GRC
+- Profesionales de gobierno de IA
+- Gerentes de tecnología
+- Consultores
+- Organizaciones pequeñas y entidades sin ánimo de lucro
 
-## Responsible Use
+## Uso responsable
 
-AI systems should be designed and operated with:
+Los sistemas de IA deben diseñarse y operarse con:
 
-- Least privilege
-- Strong identity controls
-- Human oversight
-- Secure data handling
-- Validated tool access
-- Logging and monitoring
-- Testing for prompt injection and data leakage
-- Documented governance
-- Emergency shutdown and recovery procedures
+- Privilegio mínimo
+- Controles sólidos de identidad
+- Supervisión humana
+- Manejo seguro de datos
+- Acceso validado a herramientas
+- Registros y monitoreo
+- Pruebas de inyección de instrucciones y fuga de datos
+- Gobierno documentado
+- Procedimientos de apagado y recuperación
 
-## Author
+## Autor
 
 **Alberto (Al) Leiva**
 
-## Version
+## Versión
 
-Version 1.0 — July 2026
+Versión 1.0 — Julio de 2026
 
-## License
+## Licencia
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 
-## Disclaimer
+## Aviso
 
-This manual is provided for education and general Azure and AI-security guidance.
+Este manual se proporciona con fines educativos y como orientación general sobre Azure y seguridad de IA.
 
-Azure services, interfaces, licensing, and security capabilities may change. Readers should verify important implementation details through current Microsoft documentation before production deployment.
+Los servicios, interfaces, licencias y capacidades de seguridad de Azure pueden cambiar. Verifique los detalles importantes en la documentación actual de Microsoft antes de implementar controles en producción.
 
-[Return to the main repository](../README.md)
+[Regresar al repositorio principal](../README.md)
