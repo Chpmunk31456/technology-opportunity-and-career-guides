@@ -38,7 +38,7 @@ Use the implementation manuals to learn how security programs are designed, docu
 
 - [Cybersecurity Risk Assessment](./How_to_Perform_a_Cybersecurity_Risk_Assessment_Bilingual_English_Spanish_v1.0/Cybersecurity_Risk_Assessment_Bilingual_v1.0)
 - [Third-Party Vendor Risk Assessment](./How_to_Perform_Third_Party_Vendor_Risk_Assessments_Bilingual_English_Spanish_v1.0/Third_Party_Vendor_Risk_Bilingual_v1.0)
-- [ISO/IEC 27001 Implementation](./How_to_Implement_ISO_IEC_27001_Bilingual_English_Spanish_v1.0)
+- [ISO/IEC 27001 Implementation](./How_to_Implement_ISO_IEC_27001_Bilingual_English_Spanish_v1.0/ISO27001_Bilingual_v1.0)
 - [SOC 2 Audit Readiness](./How_to_Prepare_for_a_SOC_2_Audit_Bilingual_English_Spanish_v1.0/SOC2_Audit_Readiness_Bilingual_v1.0)
 - [Cybersecurity Incident Response Program](./How_to_Build_a_Cybersecurity_Incident_Response_Program_Bilingual_English_Spanish_v1.0/Incident_Response_Program_Bilingual_v1.0)
 - [Business Continuity and Disaster Recovery](./BCDR_Bilingual_v1.0/Business_Continuity_Disaster_Recovery_Bilingual_v1.0)
@@ -321,7 +321,7 @@ I was fortunate to have mentors who recognized my potential and helped me find p
 
 ## License
 
-Unless a file states otherwise, this educational content is intended to be shared under the:
+Unless an individual file states otherwise, this repository is licensed under the:
 
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**
 
