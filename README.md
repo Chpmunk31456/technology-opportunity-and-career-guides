@@ -3,8 +3,20 @@
 Free, practical resources for exploring cybersecurity careers and learning how real security programs are designed, documented, operated, and improved.
 
 **Author:** Alberto (Al) Leiva  
-**Languages:** English and Spanish, with availability varying by guide  
+**Languages:** English, Spanish, and Brazilian Portuguese, with availability varying by guide
+
 **License:** [CC BY-NC-SA 4.0](LICENSE)
+
+## Brazilian Portuguese Web Edition
+
+The Brazilian Portuguese Markdown edition is available through the
+[Portuguese catalog](PORTUGUES_BR.md) and the
+[Portuguese project introduction](README.pt-BR.md).
+
+The Portuguese pages were prepared with machine-assisted translation and
+structural review. A proficient human linguistic and technical review is still
+recommended before the material is used for important decisions. Portuguese
+DOCX and PDF editions are planned for a later phase.
 
 ## Mission
 
